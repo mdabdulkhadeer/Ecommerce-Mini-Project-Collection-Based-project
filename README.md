@@ -71,4 +71,4 @@ Potential improvements include:
 
 
 
-*Built with Java, curiosity, and a passion for backend development.*
+Built with Java, curiosity, and a passion for backend development .
