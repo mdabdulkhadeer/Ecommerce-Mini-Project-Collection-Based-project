@@ -57,7 +57,7 @@ This project was built as part of my journey toward becoming a Java Backend Deve
 
 It helped me strengthen my understanding of how Java Collections can be used to solve practical programming problems while improving my coding logic, data handling, and software development skills.
 
-The project also serves as a foundation for developing more advanced applications using JDBC, MySQL, Spring, and Spring Boot...
+The project also serves as a foundation for developing more advanced applications using JDBC, MySQL, Spring, and Spring Boot.
 
 📈 Future Enhancements--->
 Potential improvements include:
